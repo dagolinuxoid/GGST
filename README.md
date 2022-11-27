@@ -1,8 +1,7 @@
 GUILTY GEAR STRiVE
 
 The reason I keep Windows 11
-as my GRUB instance.
+as my GRUB entry.
 
 Survival mode record.
-It's thouZand stage territory.
-
+Current STAGE: 950.
